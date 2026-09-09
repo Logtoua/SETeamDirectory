@@ -1,0 +1,3 @@
+# Better Ticket
+## Developers
+* Brandon Strege [systemicdream](https://github.com/systemicdream)
