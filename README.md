@@ -9,7 +9,7 @@
 * [PrismaticLauncher]()
 * [QuickCop](teams/QuickCop.md)
 * [SideCause](teams/sidecause.md)
-* [SkillStreak]()
+* [SkillStreak](teams/skillStreak.md)
 * [SkyTracker](teams/skytracker.md)
 * [Sunlight](teams/sunlightBeforeScreentime.md)
 
