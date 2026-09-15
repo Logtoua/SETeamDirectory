@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2026):
-* [BetterTicket]()
+* [BetterTicket](teams/BetterTicket.md)
 * [CampusCuisines]()
 * [ClassFinder]()
 * [CreditCardMatch]()
