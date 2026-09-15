@@ -7,7 +7,7 @@
 * [CreditCardMatch](teams/CreditCardMatch.md)
 * [MedCheck]()
 * [PrismaticLauncher]()
-* [QuickCop]()
+* [QuickCop](teams/QuickCop.md)
 * [SideCause](teams/sidecause.md)
 * [SkillStreak]()
 * [SkyTracker](teams/skytracker.md)
