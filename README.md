@@ -5,7 +5,7 @@
 * [CampusCuisines](teams/CampusCuisines.md)
 * [ClassFinder](teams/Classfinder.md)
 * [CreditCardMatch](teams/CreditCardMatch.md)
-* [MedCheck]()
+* [MedCheck](teams/MedCheck.md)
 * [PrismaticLauncher]()
 * [QuickCop](teams/QuickCop.md)
 * [SideCause](teams/sidecause.md)
